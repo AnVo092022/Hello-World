@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.c
+C:\Users\ADMIN\Documents\Aptech\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ADMIN\Documents\Aptech\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(10,5): warning C4013: 'gets' undefined; assuming extern returning int
+  ConsoleApplication1.vcxproj -> C:\Users\ADMIN\Documents\Aptech\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
